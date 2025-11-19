@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Social Robotics & Human–Machine Interface (HMI)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />
+<!--<img src="{{ site.url }}{{ site.baseurl }}/images/respic/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />-->
 
 Our work in social robotics focuses on designing and developing social robots and mechatronic heads capable of interacting naturally with people. We explore human–robot interaction through expressive behaviours, gaze control, avatars, and emotion recognition systems. Another key area is learning by demonstration, enabling robots to acquire new skills directly from human teachers. We also develop assistive robotics solutions aimed at supporting older adults and individuals in domestic or residential environments. These efforts integrate multimodal interfaces and socially aware decision-making mechanisms to create robots that behave intuitively in human-centred contexts.
 
@@ -39,53 +39,6 @@ Our research spans human‑centred robotics, autonomous perception and action, a
 
 Paseo del Cauce, 59, 47011 Valladolid, Spain.
 Email: [roboticavision@eii.uva.es](mailto:roboticavision@eii.uva.es)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Research
-
-Research in medical robotics and rehabilitation robotics within the medical robotics research group of ITAP focuses on providing real solutions to surgical, healthcare and rehabilitation challenges. The two lines of research in which this group works are:
-
-## Rehabilitation robotics
-
-
-
-Design, control and manufacture of robotic devices for rehabilitation tasks of upper limbs in people with neuromotor disability. In this line of research, mechatronic robot-assisted exercise devices are developed that significantly improve the success rate in neurological rehabilitation therapy to relearn the movement abilities of the upper limbs (arm and hand). Neurological rehabilitation treatment to relearn movement capabilities after a stroke, paraplegia or traumatic brain injury is based on intensive movement therapy over a period of several weeks and months, sometimes even years. This therapy helps patients to relearn the daily movements of arms and hands. The arms and hands are guided repeatedly in natural movements so that the healthy areas of the brain can learn successively to control the paralyzed limbs. Robot-assisted therapy exercise devices can relieve therapists of heavy, monotonous physical work, while increasing the intensity of patient therapy. Clinical studies in patients treated with robotic-assisted therapy exercise devices show a greatly improved success rate compared to patients treated with conventional therapy.
-
-This line of research is developed through projects with the companies CyL ImasD S.L. and Aplifisa, projects funded by the CDTI.
-
-In this line of research, we collaborate very actively with: the rehabilitation service of the University Clinical Hospital of Valladolid, directed by Dr. Emilio J. Barajas; the Benito Menni Hospital Center (Valladolid, Spain) Rehabilitation Unit under the management of Dr. Socorro Martínez; La Fuenfria Hospital Center (Cercedilla, Madrid) and the Biomedical Engineering Group of the University Group, directed by Dr. Roberto Horneros.
-
-## Robotic assisted surgery
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/endonasal_robot.jpg" class="img-responsive" width="50%" style="float: right; padding-left:15px"/>
-
-Design and control of robotic assistants for minimally invasive surgery. This type of surgery is performed with instruments and visualization equipment inserted 
-into the body through small incisions created by the surgeon, unlike open surgery with large incisions. This minimizes surgical trauma and damage to healthy tissues, 
-which reduces the patient's recovery time. 
-
-Unfortunately, there are disadvantages due to the dexterity reduction, the workspace, and the sensory input for the surgeon 
-that is only available through a single video image. In this line of research, control strategies and mechatronic devices are developed that help the surgeon during 
-the surgical intervention.
-
-In this line of research projects are carried out in collaboration with the medical robotics group of the University of Malaga led by Dr. Victor Muñoz, and with the 
-NBIO group of the Miguel Hernández de Elche University, directed by Dr. José María Sabater.
 
 ---
 
