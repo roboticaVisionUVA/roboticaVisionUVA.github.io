@@ -300,7 +300,7 @@
   link:
     url: "https://doi.org/10.1109/IROS58592.2024.10801547"
     display: "(2024) IEEE/RSJ IROS 2024, Abu Dhabi (EAU) – Proceedings"
-  highlight: 1
+  highlight: 0
 
 - title: "Control de un robot social mediante modelos de comportamiento para el cuidado de personas mayores"
   type: congress
