@@ -1,7 +1,7 @@
 ---
 title: "ITAP Robotics & Computer Vision - Publications"
 layout: gridlay
-excerpt: "ITAP Robotics & Computer Vision - Publications."
+excerpt: "ITAP Robotics & Computer Vision -- Publications."
 sitemap: false
 permalink: /publications/
 ---
