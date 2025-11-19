@@ -39,7 +39,8 @@
   photo: miguel.png
   info: PhD Candidate
   email: ''
-  number_educ: 2
+  number_educ: 3
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/644089/detalle">Website</a>
   education1: <a href="https://orcid.org/0009-0007-2057-3753">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?hl=en&user=aoOJgK4AAAAJ">Link to Google Scholar</a>
 
@@ -48,7 +49,7 @@
   info: PhD Candidate
   email: ''
   number_educ: 3
-  education1: <a href="https://portaldelaciencia.uva.es/investigadores/19371/detalle">Website</a>
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/767348/detalle">Website</a>
   education2: <a href="https://orcid.org/0009-0001-5392-7606">Link to ORCID</a>
   education3: <a href="https://www.researchgate.net/scientific-contributions/Sergio-Merino-Fidalgo-2255341325">Link to ResearchGate</a>
 
