@@ -6,7 +6,7 @@
   link:
     url: "https://doi.org/10.1007/s10845-025-02673-7"
     display: "(2025) Journal of Intelligent Manufacturing"
-  highlight: 1
+  highlight: 0
 
 - title: "Behavior tree generation and adaptation for a social robot control with LLMs"
   type: journal
@@ -16,7 +16,7 @@
   link:
     url: "https://doi.org/10.1016/j.robot.2025.105165"
     display: "(2025) Robotics and Autonomous Systems"
-  highlight: 1
+  highlight: 0
 
 - title: "Recognition of Egyptian hieroglyphic texts engraved in stone walls by integrating multi-view stereo reconstruction and deep learning"
   type: journal
@@ -36,7 +36,7 @@
   link:
     url: "https://doi.org/10.3390/electronics13173365"
     display: "(2024) Electronics, 13(17), 3365"
-  highlight: 1
+  highlight: 0
 
 - title: "Development of a human–robot interface for the trajectory generation of a collaborative robot using RGB-D cameras"
   type: journal
@@ -66,7 +66,7 @@
   link:
     url: "https://doi.org/10.1016/j.patcog.2023.109797"
     display: "(2023) Pattern Recognition, 143, 109797"
-  highlight: 1
+  highlight: 0
 
 - title: "SDHAR-HOME: A sensor dataset for human activity recognition at home"
   type: journal
