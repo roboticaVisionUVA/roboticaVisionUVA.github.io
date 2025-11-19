@@ -24,6 +24,10 @@ We actively contribute to the advancement of robotics and artificial intelligenc
 
 We are located in the Faculty of Engineering of the University of Valladolid (Mergelina building). Full contact info is available in the [contact page](/contact).
 
+Follow our YouTube channel: <a href="https://www.youtube.com/@Rob%C3%B3ticaVisi%C3%B3nUVA">YouTube Channel</a>
+
+Follow our TikTok channel: <a href="https://www.youtube.com/channel/UCWCbHyPbBXhH2sDBwYh0u4g">TikTok Channel</a>
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -32,7 +36,6 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>		
     </ol>
 
     <!-- Items -->
@@ -52,9 +55,6 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/h-i.jpg" alt="Slide 5" />
         </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rosogar.jpg" alt="Slide 6" />
-        </div>		
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

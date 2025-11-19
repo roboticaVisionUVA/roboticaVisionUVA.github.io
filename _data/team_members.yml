@@ -62,8 +62,15 @@
   education3: <a href="https://www.researchgate.net/profile/Celia-Coca">Link to ResearchGate</a>
 
 - name: Álvaro Zamorano Casasola
-  photo: alvaro.png
+  photo: alvaroZ.JPG
   info: Research Associate
   email: ''
   number_educ: 1
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/1377450/detalle">Website</a>
+
+- name: Raúl Gómez Ramos
+  photo: raulGomez.JPG
+  info: External researcher
+  email: ''
+  number_educ: 1
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/181165/detalle">Website</a>

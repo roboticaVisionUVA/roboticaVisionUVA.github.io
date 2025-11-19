@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: gridlay
-excerpt: "ITAP Medical Robotics -- News"
+excerpt: "ITAP Robotics & Computer Vision -- News"
 sitemap: false
 permalink: /allnews.html
 ---

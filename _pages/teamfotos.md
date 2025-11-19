@@ -1,7 +1,7 @@
 ---
-title: "ITAP Medical Robotics - Team Photos"
+title: "ITAP Robotics & Computer Vision - Team Photos"
 layout: piclay
-excerpt: "ITAP Medical Robotics -- Team Photos"
+excerpt: "ITAP Robotics & Computer Vision -- Team Photos"
 permalink: /teampictures/
 ---
 

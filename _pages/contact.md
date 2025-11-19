@@ -9,8 +9,10 @@ permalink: /contact.html
 # Contact
 
 <p style="font-weight: bold;font-size:x-large;padding-left:5px;padding-top:20px;">
-Eduardo Zalama Casanova 
+Eduardo Zalama Casanova
+
 Tel. +34-983185048
+
 ezalama@uva.es
 </p>
 

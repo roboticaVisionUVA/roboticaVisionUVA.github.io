@@ -1,7 +1,7 @@
 ---
-title: "ITAP Medical Robotics - Past members"
+title: "ITAP Robotics & Computer Vision - Past members"
 layout: gridlay
-excerpt: "ITAP Medical Robotics - Past members"
+excerpt: "ITAP Robotics & Computer Vision -- Past members"
 sitemap: false
 permalink: /team/past/
 ---

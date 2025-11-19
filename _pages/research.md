@@ -1,10 +1,62 @@
 ---
-title: "ITAP Medical Robotics - Research"
+title: "ITAP Robotics & Computer Vision - Research"
 layout: textlay
-excerpt: "ITAP Medical Robotics -- Research"
+excerpt: "ITAP Robotics & Computer Vision - Research"
 sitemap: false
 permalink: /research/
 ---
+
+# Research
+
+## Social Robotics & Human–Machine Interface (HMI)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />
+
+Our work in social robotics focuses on designing and developing social robots and mechatronic heads capable of interacting naturally with people. We explore human–robot interaction through expressive behaviours, gaze control, avatars, and emotion recognition systems. Another key area is learning by demonstration, enabling robots to acquire new skills directly from human teachers. We also develop assistive robotics solutions aimed at supporting older adults and individuals in domestic or residential environments. These efforts integrate multimodal interfaces and socially aware decision-making mechanisms to create robots that behave intuitively in human-centred contexts.
+
+## Robotics, Artificial Intelligence and Computer Vision
+
+Our research in robotics, artificial intelligence, and computer vision focuses on enabling robots to perceive, interpret, and understand their environment through advanced visual and learning-based methods. We work on 3D perception, scene understanding, and deep learning techniques that allow robots to recognize objects, classify scenes, and extract meaningful information from sensor data. These capabilities form the foundation for intelligent robotic behaviour, integrating visual processing with decision-making models that support autonomy in complex and dynamic environments.
+
+## Autonomous Robots
+
+The autonomous robots line addresses the development of mobile robotic systems capable of navigating and acting independently in both indoor and outdoor settings. Our work includes SLAM, adaptive navigation, and localisation strategies that allow robots to operate reliably without external supervision. We design autonomous transport platforms and intelligent robotic systems that make context-aware decisions, learn from experience, and interact with humans and environments safely and efficiently. This research aims to achieve robust autonomy through the integration of perception, control, and high-level reasoning.
+
+## 3D Colour Modelling
+
+Our research in 3D colour modelling focuses on accurately capturing and representing the geometry, colour, and material properties of real-world environments. We work on BRDF estimation and colour fidelity to model how surfaces reflect light, aiming for highly realistic digital reconstructions. Automated 3D scanning techniques are applied to buildings and interior spaces, enabling precise documentation for architectural analysis and heritage preservation. We also develop methods for the virtual restoration of polychromy, allowing historical elements to be digitally recovered. These contributions support applications in cultural heritage, architecture, BIM and digital twin technologies.
+
+* BRDF estimation, colour fidelity and material modelling.
+* Automated 3D scanning of buildings/interiors.
+* Virtual restoration of polychromy.
+* Applications in heritage, architecture, BIM and digital twins.
+
+# Summary
+
+Our research spans human‑centred robotics, autonomous perception and action, and high‑fidelity 3D colour modelling. We aim to develop perceptive, interactive and intelligent robotic systems capable of operating in real environments and accurately modelling the world.
+
+# Contact
+
+Paseo del Cauce, 59, 47011 Valladolid, Spain.
+Email: [roboticavision@eii.uva.es](mailto:roboticavision@eii.uva.es)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Research
 
@@ -12,7 +64,7 @@ Research in medical robotics and rehabilitation robotics within the medical robo
 
 ## Rehabilitation robotics
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />
+
 
 Design, control and manufacture of robotic devices for rehabilitation tasks of upper limbs in people with neuromotor disability. In this line of research, mechatronic robot-assisted exercise devices are developed that significantly improve the success rate in neurological rehabilitation therapy to relearn the movement abilities of the upper limbs (arm and hand). Neurological rehabilitation treatment to relearn movement capabilities after a stroke, paraplegia or traumatic brain injury is based on intensive movement therapy over a period of several weeks and months, sometimes even years. This therapy helps patients to relearn the daily movements of arms and hands. The arms and hands are guided repeatedly in natural movements so that the healthy areas of the brain can learn successively to control the paralyzed limbs. Robot-assisted therapy exercise devices can relieve therapists of heavy, monotonous physical work, while increasing the intensity of patient therapy. Clinical studies in patients treated with robotic-assisted therapy exercise devices show a greatly improved success rate compared to patients treated with conventional therapy.
 

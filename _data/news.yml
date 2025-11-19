@@ -3,35 +3,34 @@
   image: JornadasDeAutomatica2025.png
   link: <a href="https://www.jautomatica.upct.es/127169/detail/xlvi-jornadas-de-automatica-cartagena-2025.html" target="_blank">XLVI Jornadas de Automática in Cartagena</a>
 
-- date: 2 September 2024
-  headline: "Research group participates in XLV Jornadas de Automática in Malaga"
-  image: JornadasAutomaticaMalaga2024.png
-  link: <a href="https://jautomatica.uma.es/" target="_blank">Dispositivo háptico para la rehabilitación de dedo. Estudio preliminar</a>
+- date: 14 October 2024
+  headline: "Research group participates in IROS 2024 in Abu Dhabi"
+  image: IMG-20241016-WA0010.jpg
+  link: <a href="https://iros2024-abudhabi.org/" target="_blank">IROS 2024</a>
 
 - date: 31 May 2024
   headline: "Research group participates in Robotics Symposium in Badajoz: Diego Benavides showcases an automatic and real-time integrable model for the localization of laparoscopic surgery tools"
   image: SimposioCEABadajoz2024.jpg
   link: <a href="https://eventos.unex.es/107983/section/49270/simposio-de-robotica-biongenieria-y-vision-por-computador-2024.html" target="_blank">Simposio de Robótica, Bioingeniería y Visión por Computador, Badajoz 2024</a>
 
-- date: 7 April 2024
-  headline: "Regional newspaper 'El Norte de Castilla' revisits RobHand technology for hand rehabilitation, inspired by our post-COVID therapies article"
-  image: nortedecastilla7abr24.png
-  link: <a href="https://roboticamedica.itap.uva.es/downloads/nortedecastilla_itap_070424.pdf" target="_blank">La rehabilitación asistida por robot logra recuperar atrofias en las manos por covid grave (El Norte de Castilla)</a>
+- date: 21 December 2021
+  headline: "Regional newspaper 'El Mundo' awards and showcases our research on robots that live with older adults."
+  image: periodico1.png
+  link: <a href="https://www.diariodecastillayleon.es/innovadores/211221/32818/robot-vive-mayores.html" target="_blank">El robot que vive con los mayores (Diario de Valladolid)</a>
 
-- date: 10 October 2023
-  headline: "Local TV channel 'La 8 Valladolid' explores our facilities for insights into RobHand"
-  image: VisitaLa8.png
-  link: <a href="https://youtu.be/0xskNhjDcl0?si=q38kmteOoBHGVspK&t=1618" target="_blank">La 8 Magazine Valladolid [26:57]</a>
+#- date: 10 October 2023
+#  headline: "Local TV channel 'La 8 Valladolid' explores our facilities for insights into RobHand"
+#  image: VisitaLa8.png
+#  link: <a href="https://youtu.be/0xskNhjDcl0?si=q38kmteOoBHGVspK&t=1618" target="_blank">La 8 Magazine Valladolid [26:57]</a>
 
-- date: 3 October 2023
-  headline: "Benito Menni Hospital in Valladolid unveils rehabilitation treatment results for COVID patients at press meeting"
-  image: RPBMenni.png
-  link: <a href="https://www.instagram.com/reel/CyAxDTiI3GJ/?igshid=MTc4MmM1YmI2Ng==" target="_blank">Antena 3 National News Broadcast</a>
-  #https://www.atresplayer.com/antena3/noticias/noticias-1/octubre-2023/04-10-23-pedro-sanchez-y-yolanda-diaz-fijan-octubre-como-limite-para-cerrar-un-acuerdo-de-gobierno-y-resolver-sus-importantes-diferencias_651d63fb2269b0e41e96962e/" target="_blank">Antena 3 National News Broadcast [28:09]</a>
-  link1: <a href="https://www.rtve.es/play/videos/noticias-de-castilla-y-leon/noticias-castilla-leon-2-03-10-23/6980905/#" target="_blank">La 1 Regional News Broadcast [14:38]</a>
-  link2: <a href="https://www.cyltv.es/Noticia/97E3B31F-03B5-652E-8A9AF199C8C2E2BF/Pacientes-con-secuelas-post-COVID-recuperan-el-70-de-la-movilidad-gracias-a-un-robot" target="_blank">CyLTV Regional News Broadcast</a>
-  link3: <a href="https://www.cyltv.es/videoSH/e912a429-79d2-4192-ae8d-ae271bda962a/Un-exoesqueleto-de-mano-la-nueva-herramienta-que-ayuda-a-mejorar-la-movilidad-de-los-pacientes-covid" target="_blank">La 8 Valladolid Local News Broadcast</a>
-  #link4: 
+#- date: 3 October 2023
+#  headline: "Benito Menni Hospital in Valladolid unveils rehabilitation treatment results for COVID patients at press meeting"
+#  image: RPBMenni.png
+#  link: <a href="https://www.instagram.com/reel/CyAxDTiI3GJ/?igshid=MTc4MmM1YmI2Ng==" target="_blank">Antena 3 National News Broadcast</a>
+#  link1: <a href="https://www.rtve.es/play/videos/noticias-de-castilla-y-leon/noticias-castilla-leon-2-03-10-23/6980905/#" target="_blank">La 1 Regional News Broadcast [14:38]</a>
+#  link2: <a href="https://www.cyltv.es/Noticia/97E3B31F-03B5-652E-8A9AF199C8C2E2BF/Pacientes-con-secuelas-post-COVID-recuperan-el-70-de-la-movilidad-gracias-a-un-robot" target="_blank">CyLTV Regional News Broadcast</a>
+#  link3: <a href="https://www.cyltv.es/videoSH/e912a429-79d2-4192-ae8d-ae271bda962a/Un-exoesqueleto-de-mano-la-nueva-herramienta-que-ayuda-a-mejorar-la-movilidad-de-los-pacientes-covid" target="_blank">La 8 Valladolid Local News Broadcast</a>
+#link4: 
 
 #- date: 13. December 2021
 #  headline: "We are launching the new website!"

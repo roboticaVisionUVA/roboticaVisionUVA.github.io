@@ -1,7 +1,7 @@
 ---
-title: "ITAP Medical Robotics - Openings"
+title: "ITAP Robotics & Computer Vision - Openings"
 layout: textlay
-excerpt: "ITAP Medical Robotics - Openings"
+excerpt: "ITAP Robotics & Computer Vision - Openings"
 sitemap: false
 permalink: /vacancies
 ---
