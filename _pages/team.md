@@ -12,7 +12,7 @@ permalink: /team/
 
 
 <center>
-  <a href="{{ site.baseurl }}/teampictures/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
+  <a href="{{ site.baseurl }}/team/teampictures/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
   <div>
 
@@ -151,7 +151,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <center>
-  <a href="/team/past">
+  <a href="{{ site.baseurl }}/team/past">
   <div>
 
   Past members        →
