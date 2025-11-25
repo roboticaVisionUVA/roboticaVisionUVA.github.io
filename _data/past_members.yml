@@ -5,6 +5,13 @@
   number_educ: 1
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/1101983/detalle">Website</a>
 
+- name: Louis Gillard
+  photo: louis.jpg
+  info: Visiting researcher
+  email: ''
+  number_educ: 0
+  education1: ''
+
 - name: Álvaro Correa Rosón
   photo: alvaroC.png
   info: Research Associate
