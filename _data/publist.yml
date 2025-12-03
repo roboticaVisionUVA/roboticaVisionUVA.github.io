@@ -22,7 +22,7 @@
   type: journal
   image: dummy.jpg
   description: ""
-  authors: "Fuentes-Ferrer, R.; Herrera, P. J.; Duque-Domingo, J."
+  authors: "Fuentes-Ferrer, R.; Duque-Domingo, J.; Herrera, P. J."
   link:
     url: "https://doi.org/10.1016/j.asoc.2025.112793"
     display: "(2025) Applied Soft Computing"
