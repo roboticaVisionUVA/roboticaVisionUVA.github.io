@@ -36,13 +36,14 @@
   education2: <a href="https://orcid.org/0000-0002-0956-6030">Link to ORCID</a>
 
 - name: Miguel García Gómez
-  photo: miguel.png
+  photo: miguel.jpeg
   info: PhD Candidate
   email: ''
-  number_educ: 3
+  number_educ: 4
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/644089/detalle">Website</a>
   education2: <a href="https://orcid.org/0009-0007-2057-3753">Link to ORCID</a>
   education3: <a href="https://scholar.google.com/citations?hl=en&user=aoOJgK4AAAAJ">Link to Google Scholar</a>
+  education4: <a href="https://www.linkedin.com/in/miguelgarmez/">Link to LinkedIn</a>
 
 - name: Sergio Merino Fidalgo
   photo: sergio.jpg
@@ -54,13 +55,14 @@
   education3: <a href="https://www.researchgate.net/scientific-contributions/Sergio-Merino-Fidalgo-2255341325">Link to ResearchGate</a>
 
 - name: Celia Sánchez-Girón Coca
-  photo: celia.png
+  photo: celia.jpeg
   info: PhD Candidate
   email: ''
-  number_educ: 3
+  number_educ: 4
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/644056/detalle?lang=en">Website</a>
   education2: <a href="https://orcid.org/0009-0007-1082-6219">Link to ORCID</a>
   education3: <a href="https://www.researchgate.net/profile/Celia-Coca">Link to ResearchGate</a>
+  education4: <a href="https://www.linkedin.com/in/celiasanchez-gironcoca/">Link to LinkedIn</a>
 
 - name: Álvaro Zamorano Casasola
   photo: alvaroZ.JPG
