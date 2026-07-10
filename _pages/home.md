@@ -55,6 +55,13 @@ Follow our TikTok channel: <a href="https://www.tiktok.com/@roboticavisionuva?_r
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/h-i.jpg" alt="Slide 5" />
         </div>
+        <div class="item" style="background: black; text-align: center;">
+            <video controls autoplay loop muted style="max-width: 100%; max-height: 1400px; width: auto; height: auto; margin: 0 auto;">
+                <source src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NaoTaichi_comprimido.mp4" type="video/mp4">
+                Tu navegador no soporta vídeos HTML5.
+            </video>
+        </div>
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
