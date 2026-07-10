@@ -36,6 +36,8 @@ Follow our TikTok channel: <a href="https://www.tiktok.com/@roboticavisionuva?_r
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -44,16 +46,19 @@ Follow our TikTok channel: <a href="https://www.tiktok.com/@roboticavisionuva?_r
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/a-b.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robot1.webp" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/c-d-e.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robot2.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/f-g.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robot3.jpg" alt="Slide 4" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/h-i.jpg" alt="Slide 5" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robot4.png" alt="Slide 5" />
+        </div>
+                <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RTVE_2025.jpg" alt="Slide 6" />
         </div>
         <div class="item" style="background: black; text-align: center;">
             <video controls autoplay loop muted style="max-width: 100%; max-height: 1400px; width: auto; height: auto; margin: 0 auto;">
