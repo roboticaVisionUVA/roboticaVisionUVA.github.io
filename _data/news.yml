@@ -2,12 +2,13 @@
 - date: 2 October 2026
   headline: "Our project has been featured in several media outlets in the last week such as Tribuna de Valladolid, SoriaNoticias or El Día de Valladolid as well as in the university website."
   image: miguel_kinova.jpg
-  link: <a href="https://www.eldiadevalladolid.com/noticia/zd419b1d4-3e92-4e12-93ca300986e8ab46/202610/la-uva-desarrolla-un-robot-para-ayudar-a-los-mayores-en-casa" target="_blank">El Día de Valladolid</a>
-    <a href="https://www.tribunavalladolid.com/noticias/461040/la-uva-desarrolla-un-robot-con-dos-brazos-que-podria-ayudar-a-cuidar-a-personas-mayores-desde-casa" target="_blank">Tribuna de Valladolid</a>
-    <a href="https://www.casadomo.com/2026/10/06/universidad-valladolid-desarrolla-robot-servicio-personas-mayores-hogar" target="_blank">Casadomo</a></li>
-    <a href="https://sorianoticias.com/noticia/2026-10-02-la-uva-disena-un-robot-manejado-con-realidad-virtual-para-cuidar-a-mayores-137342" target="_blank">SoriaNoticias</a>
-    <a href="https://www.extradigital.es/un-robot-para-las-personas-mayores-en-el-hogar-articulo-del-mes-de-kinova-robotics-cyl/" target="_blank">Extra Digital</a>
-    <a href="https://www.hwlibre.com/robotica-para-mayores-avances-en-espana-para-asistir-y-acompanar/" target="_blank">HWLibre</a>
+  link: | 
+    <a href="https://www.eldiadevalladolid.com/noticia/zd419b1d4-3e92-4e12-93ca300986e8ab46/202610/la-uva-desarrolla-un-robot-para-ayudar-a-los-mayores-en-casa" target="_blank">El Día de Valladolid</a><br>
+    <a href="https://www.tribunavalladolid.com/noticias/461040/la-uva-desarrolla-un-robot-con-dos-brazos-que-podria-ayudar-a-cuidar-a-personas-mayores-desde-casa" target="_blank">Tribuna de Valladolid</a><br>
+    <a href="https://www.casadomo.com/2026/10/06/universidad-valladolid-desarrolla-robot-servicio-personas-mayores-hogar" target="_blank">Casadomo</a><br>
+    <a href="https://sorianoticias.com/noticia/2026-10-02-la-uva-disena-un-robot-manejado-con-realidad-virtual-para-cuidar-a-mayores-137342" target="_blank">SoriaNoticias</a><br>
+    <a href="https://www.extradigital.es/un-robot-para-las-personas-mayores-en-el-hogar-articulo-del-mes-de-kinova-robotics-cyl/" target="_blank">Extra Digital</a><br>
+    <a href="https://www.hwlibre.com/robotica-para-mayores-avances-en-espana-para-asistir-y-acompanar/" target="_blank">HWLibre</a><br>
     <a href="https://comunicacion.uva.es/detalle/Un-robot-al-servicio-de-las-personas-mayores-en-el-hogar/" target="_blank">Gabinete de Comunicación de la UVa</a>
     
 
