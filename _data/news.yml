@@ -2,14 +2,13 @@
 - date: 2 October 2026
   headline: "Our project has been featured in several media outlets in the last week such as Tribuna de Valladolid, SoriaNoticias or El Día de Valladolid as well as in the university website."
   image: miguel_kinova.jpg
-  links:
-  - '<a href="https://www.eldiadevalladolid.com/noticia/zd419b1d4-3e92-4e12-93ca300986e8ab46/202610/la-uva-desarrolla-un-robot-para-ayudar-a-los-mayores-en-casa" target="_blank">El Día de Valladolid</a>'
-  - '<a href="https://www.tribunavalladolid.com/noticias/461040/la-uva-desarrolla-un-robot-con-dos-brazos-que-podria-ayudar-a-cuidar-a-personas-mayores-desde-casa" target="_blank">Tribuna de Valladolid</a>'
-  - '<a href="https://www.casadomo.com/2026/10/06/universidad-valladolid-desarrolla-robot-servicio-personas-mayores-hogar" target="_blank">Casadomo</a>'
-  - '<a href="https://sorianoticias.com/noticia/2026-10-02-la-uva-disena-un-robot-manejado-con-realidad-virtual-para-cuidar-a-mayores-137342" target="_blank">SoriaNoticias</a>'
-  - '<a href="https://www.extradigital.es/un-robot-para-las-personas-mayores-en-el-hogar-articulo-del-mes-de-kinova-robotics-cyl/" target="_blank">Extra Digital</a>'
-  - '<a href="https://www.hwlibre.com/robotica-para-mayores-avances-en-espana-para-asistir-y-acompanar/" target="_blank">HWLibre</a>'
-  - '<a href="https://comunicacion.uva.es/detalle/Un-robot-al-servicio-de-las-personas-mayores-en-el-hogar/" target="_blank">Gabinete de Comunicación de la UVa</a>'
+  link: '<a href="https://www.eldiadevalladolid.com/noticia/zd419b1d4-3e92-4e12-93ca300986e8ab46/202610/la-uva-desarrolla-un-robot-para-ayudar-a-los-mayores-en-casa" target="_blank">El Día de Valladolid</a>'
+  link: '<a href="https://www.tribunavalladolid.com/noticias/461040/la-uva-desarrolla-un-robot-con-dos-brazos-que-podria-ayudar-a-cuidar-a-personas-mayores-desde-casa" target="_blank">Tribuna de Valladolid</a>'
+  link: '<a href="https://www.casadomo.com/2026/10/06/universidad-valladolid-desarrolla-robot-servicio-personas-mayores-hogar" target="_blank">Casadomo</a>'
+  link: '<a href="https://sorianoticias.com/noticia/2026-10-02-la-uva-disena-un-robot-manejado-con-realidad-virtual-para-cuidar-a-mayores-137342" target="_blank">SoriaNoticias</a>'
+  link: '<a href="https://www.extradigital.es/un-robot-para-las-personas-mayores-en-el-hogar-articulo-del-mes-de-kinova-robotics-cyl/" target="_blank">Extra Digital</a>'
+  link: '<a href="https://www.hwlibre.com/robotica-para-mayores-avances-en-espana-para-asistir-y-acompanar/" target="_blank">HWLibre</a>'
+  link: '<a href="https://comunicacion.uva.es/detalle/Un-robot-al-servicio-de-las-personas-mayores-en-el-hogar/" target="_blank">Gabinete de Comunicación de la UVa</a>'
 
 
 - date: 25 September 2026
@@ -39,12 +38,14 @@
 - date: 28 November 2025
   headline: “You can enroll in our new course 'Optimización de procesos empresariales con Inteligencia Artificial' until November 28, 2025.”
   image: Cartel_IA_OptimizacionEmpresarial.png
-  link: https://microcredenciales.uva.es/microcredencial/optimizacion-de-los-procesos-empresariales-con-inteligencia-artificial/
+  link: <a href=" https://microcredenciales.uva.es/microcredencial/optimizacion-de-los-procesos-empresariales-con-inteligencia-artificial/" target="_blank">Microcredencial Optimización de Procesos Empresariales con Inteligencia Artificial</a>
+  
 
 - date: 28 November 2025
   headline: “You can enroll in our new course 'Python para la productividad empresarial' until November 28, 2025.”
   image: Cartel_PythonEmpresarial.png
-  link: https://microcredenciales.uva.es/microcredencial/python-para-la-productividad-empresarial/
+  link: <a href="https://microcredenciales.uva.es/microcredencial/python-para-la-productividad-empresarial/" target="_blank">Microcredencial Python para la productividad empresarial</a>
+  
 
 - date: 3 December 2025
   headline: "Our colleague Jaime Duque is giving a talk on December 3, 2025, titled: ‘What can we expect — and what not — from artificial intelligence?’ in La Pedraja de Portillo."
