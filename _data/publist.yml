@@ -304,13 +304,13 @@
 
 - title: "Continuous Rapid Learning by Human Imitation using Audio Prompts and One-Shot Learning"
   type: congress
-  image: dummy.jpg
+  image: EsquemaIROS.png
   description: ""
   authors: "Duque-Domingo, J.; García-Gómez, M.; Zalama-Casanova, E.; Gómez-García-Bermejo, J."
   link:
     url: "https://doi.org/10.1109/IROS58592.2024.10801547"
     display: "(2024) IEEE/RSJ IROS 2024, Abu Dhabi (EAU) – Proceedings"
-  highlight: 0
+  highlight: 1
 
 - title: "Control de un robot social mediante modelos de comportamiento para el cuidado de personas mayores"
   type: congress
