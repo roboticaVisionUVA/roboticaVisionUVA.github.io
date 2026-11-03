@@ -20,7 +20,9 @@ permalink: /publications/
 <div style="padding-left:15px;padding-right:15px;"> <!--<div class="col-sm-6 clearfix">-->
 <div class="well">
 <pubtit>{{ publi.title }}</pubtit>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"
+     class="img-responsive"
+     style="float: left; width: 150px; max-width: 40%; height: auto; object-fit: contain; margin-right: 15px;" />
 <p>{{ publi.description }}</p>
 <p><em>{{ publi.authors }}</em></p>
 <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
