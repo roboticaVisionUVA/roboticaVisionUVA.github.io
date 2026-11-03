@@ -22,12 +22,13 @@ permalink: /publications/
 <pubtit>{{ publi.title }}</pubtit>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"
      class="img-responsive"
-     style="float: left; width: 150px; max-width: 40%; height: auto; object-fit: contain; margin-right: 15px;" />
+     style="float: left; width: 150px; height: auto; margin: 10px 15px 10px 0;" />
 <p>{{ publi.description }}</p>
 <p><em>{{ publi.authors }}</em></p>
 <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
 <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
 <p> {{ publi.news2 }}</p>
+<div style="clear: both;"></div>
 </div>
 </div>
 
